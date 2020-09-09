@@ -1,0 +1,14 @@
+Section 20: Modular JavaScript (Working with Modules)
+  - [x] 395. Module Introduction
+  - [x] 396. Splitting Code in a Sub-optimal Way
+  - [x] 397. A First Step Towards JavaScript Modules
+  - [x] 398. We Need a Development Server!
+  - [x] 399. First import / export Work
+  - [x] 400. Switching All Files To Use Modules
+  - [x] 401. More Named Export Syntax Variations
+  - [x] 402. Working With Default Exports
+  - [x] 403. Dynamic Imports & Code Splitting
+  - [x] 404. When Does Module Code Execute?
+  - [x] 405. Module Scope & globalThis
+  - [x] 406. Wrap Up
+  - [x] 407. Useful Resources & Links
