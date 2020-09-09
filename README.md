@@ -1,1 +1,1 @@
-# Section-20
+# Max-JavaScript-Section-20
